@@ -374,7 +374,7 @@ div.social-media .icon:hover {
   }
   .v1-title{
    width:100%;
-   top:255%;
+   top:200%;
    position:absolute;
   transform: translateY(-50%);
    text-align: center;
@@ -474,7 +474,7 @@ div.gallery {
      }
      .a1-title{
       width:100%;
-      top:414%;
+      top:350%;
       position:absolute;
       transform: translateY(-50%);
       text-align: center;
@@ -534,7 +534,7 @@ div.gallery {
  
      .o1-title{
       width:100%;
-      top:574%;
+      top:500%;
       position:absolute;
       transform: translateY(-50%);
       text-align: center;color:beige;
