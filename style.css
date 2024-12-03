@@ -131,7 +131,7 @@ color: gray;
    margin-top: 30px;
    padding:16px 8px;
    box-sizing:border-box;
-   transition-duration: 0.5s;
+   transition-duration: 0.3s;
    position:relative;
    overflow:hidden;
 }
@@ -179,7 +179,7 @@ box-shadow: 0 0 20px 0px goldenrod;
    font-weight: bold;
    border-radius: 4px;
    cursor: pointer;
-   transition: opacity 0.3s ease-in-out 1.5s;
+   transition: opacity 0.2s ease-in-out 1.5s;
    opacity: 0; /* Initially hidden */
    z-index: 10;
 }
